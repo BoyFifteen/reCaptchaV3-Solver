@@ -5,7 +5,7 @@ This Python script automates the process of extracting the reCAPTCHA token from 
 ---
 
 ## Features
-- Parses the **anchor URL** to extract parameters dynamically.
+- Parses the **anchor URL** to extract parameters dynamically. 
 - Sends a GET request to retrieve the reCAPTCHA token.
 - Processes the response to extract the final token for further use.
 
