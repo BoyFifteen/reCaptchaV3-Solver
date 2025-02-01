@@ -1,7 +1,7 @@
 # reCAPTCHA Token Extractor
 
 This Python script automates the process of extracting the reCAPTCHA token from an anchor URL. It uses `requests` for making HTTP requests and `re` for regular expression matching.
-
+ 
 ---
 
 ## Features
