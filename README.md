@@ -12,7 +12,7 @@ This Python script automates the process of extracting the reCAPTCHA token from 
 ---
 
 ## Requirements
-
+ 
 ### Python Version
 - Python 3.7 or higher
 
